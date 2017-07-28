@@ -1,0 +1,1 @@
+module.exports = require("./scss.webpack.config.js");
